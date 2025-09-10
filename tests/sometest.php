@@ -1,3 +1,4 @@
+<?php
 use PHPUnit\Framework\TestCase;
 
 final class SomeTest extends TestCase
